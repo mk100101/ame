@@ -1,0 +1,20 @@
+.convenient-payment-method {
+    /* Agrega estilos de margen y padding según sea necesario */
+    margin: 20px;
+    padding: 10px;
+    /* Establece un borde sólido con un color y grosor específicos */
+    border: 1px solid #ccc;
+    /* Aplica un borde redondeado para suavizar las esquinas */
+    border-radius: 5px;
+    /* Cambia el color de fondo para resaltar la sección */
+    background-color: #f9f9f9;
+    /* Ajusta el tamaño de fuente y el color del texto */
+    font-size: 16px;
+    color: #333;
+}
+
+/* Ajusta el estilo de los encabezados dentro de la sección si es necesario */
+.convenient-payment-method h2 {
+    font-size: 20px;
+    color: #555;
+}
